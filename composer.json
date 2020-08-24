@@ -1,0 +1,13 @@
+{
+    "name": "rtnatephp/util",
+    "description": "PHP Utility Classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nate Taylor",
+            "email": "nate@rtelectronix.com"
+        }
+    ],
+    "require": {}
+}
