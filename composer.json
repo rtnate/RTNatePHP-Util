@@ -9,5 +9,10 @@
             "email": "nate@rtelectronix.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RTNatePHP\\Util\\": "./src/"
+        }
+    }
 }
