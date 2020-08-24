@@ -4,7 +4,6 @@ namespace RTNatePHP\Util\Traits;
 
 trait GettableNotSettable
 {
-    use \RTNatePHP\Util\Traits\ArrayAccessUsesGetAndSet;
     use \RTNatePHP\Util\Traits\GettableAndSettable;
     
     public function set($key, $value)
